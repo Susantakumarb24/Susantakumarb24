@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Susantakumarb24
 - 👀 I’m interested in programming,coding and learning new languages
 - 🌱 I’m currently learning C language..
-- 💞️ I’m looking to collaborate on C language
+- 💞️ I’m looking to collaborate on C and Java language
 - 📫 How to reach me ...
 
 <!---
